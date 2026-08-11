@@ -118,7 +118,7 @@ export default function Services() {
                       className="w-full bg-primary hover:bg-primary/90"
                       asChild
                     >
-                      <a href="https://wa.me/260979333072?text=I%20want%20to%20register%20a%20Limited%20Company%20-%20K4%2C990">
+                      <a href="https://wa.me/260979333072?text=Hi%20Raising%20Ventures%20I%20want%20to%20register%20my%20company">
                         Get Started
                         <ArrowRight className="ml-2" size={18} />
                       </a>
@@ -162,7 +162,7 @@ export default function Services() {
                       className="w-full bg-accent hover:bg-accent/90"
                       asChild
                     >
-                      <a href="https://wa.me/260979333072?text=I%20want%20to%20register%20a%20Business%20Name%20-%20K1%2C700">
+                      <a href="https://wa.me/260979333072?text=Hi%20Raising%20Ventures%20I%20want%20to%20register%20my%20company">
                         Get Started
                         <ArrowRight className="ml-2" size={18} />
                       </a>
@@ -218,7 +218,7 @@ export default function Services() {
                       className="w-full bg-primary hover:bg-primary/90 text-sm"
                       asChild
                     >
-                      <a href="https://wa.me/260979333072?text=I%20want%20to%20register%20a%20New%20Company%20as%20a%20Foreigner%20-%20%24800">
+                      <a href="https://wa.me/260979333072?text=Hi%20Raising%20Ventures%20I%20want%20to%20register%20my%20company">
                         Get Started
                         <ArrowRight className="ml-2" size={16} />
                       </a>
@@ -274,7 +274,7 @@ export default function Services() {
                       className="w-full bg-accent hover:bg-accent/90 text-sm"
                       asChild
                     >
-                      <a href="https://wa.me/260979333072?text=I%20want%20to%20register%20a%20Branch%20-%20%242%2C000">
+                      <a href="https://wa.me/260979333072?text=Hi%20Raising%20Ventures%20I%20want%20to%20register%20my%20company">
                         Get Started
                         <ArrowRight className="ml-2" size={16} />
                       </a>
@@ -305,7 +305,7 @@ export default function Services() {
                         className="w-full bg-primary hover:bg-primary/90 text-sm"
                         asChild
                       >
-                        <a href="https://wa.me/260979333072?text=I%20need%20Bank%20Account%20Assistance">
+                        <a href="https://wa.me/260979333072?text=Hi%20Raising%20Ventures%20I%20want%20to%20register%20my%20company">
                           Learn More
                         </a>
                       </Button>
@@ -336,7 +336,7 @@ export default function Services() {
                         className="w-full bg-accent hover:bg-accent/90 text-sm"
                         asChild
                       >
-                        <a href="https://wa.me/260979333072?text=I%20want%20a%20Consultation">
+                        <a href="https://wa.me/260979333072?text=Hi%20Raising%20Ventures%20I%20want%20to%20register%20my%20company">
                           Book Now
                         </a>
                       </Button>
