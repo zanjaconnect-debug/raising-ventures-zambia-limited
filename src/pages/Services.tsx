@@ -463,7 +463,7 @@ export default function Services() {
               className="w-full sm:w-auto bg-accent hover:bg-accent/90 text-white"
               asChild
             >
-              <a href="mailto:info@raisingventures.zm">
+              <a href="mailto:airsite.mundia@gmail.com">
                 <Mail size={18} className="mr-2" />
                 Email Us
               </a>
@@ -507,11 +507,11 @@ export default function Services() {
                   +260 979 333 072
                 </a>
                 <a
-                  href="mailto:info@raisingventures.zm"
+                  href="mailto:airsite.mundia@gmail.com"
                   className="flex items-center gap-2 hover:opacity-80"
                 >
                   <Mail size={16} />
-                  info@raisingventures.zm
+                  airsite.mundia@gmail.com
                 </a>
               </div>
             </div>

@@ -264,11 +264,11 @@ export default function WhyUs() {
                   +260 979 333 072
                 </a>
                 <a
-                  href="mailto:info@raisingventures.zm"
+                  href="mailto:airsite.mundia@gmail.com"
                   className="flex items-center gap-2 hover:opacity-80"
                 >
                   <Mail size={16} />
-                  info@raisingventures.zm
+                  airsite.mundia@gmail.com
                 </a>
               </div>
             </div>
