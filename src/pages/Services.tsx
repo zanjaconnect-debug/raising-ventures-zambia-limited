@@ -118,7 +118,7 @@ export default function Services() {
                       className="w-full bg-primary hover:bg-primary/90"
                       asChild
                     >
-                      <a href="https://wa.me/260979333072?text=Hi%20Raising%20Ventures%20I%20want%20to%20register%20my%20company">
+                      <a href="https://wa.me/260979333072?text=Hello%20Raising%20Ventures%21%20I%20need%20Limited%20Company%20Registration%20%28K4%2C990%29.%20Please%20send%20requirements%20and%20timeline.%20Ready%20to%20proceed%20immediately.">
                         Get Started
                         <ArrowRight className="ml-2" size={18} />
                       </a>
@@ -162,7 +162,7 @@ export default function Services() {
                       className="w-full bg-accent hover:bg-accent/90"
                       asChild
                     >
-                      <a href="https://wa.me/260979333072?text=Hi%20Raising%20Ventures%20I%20want%20to%20register%20my%20company">
+                      <a href="https://wa.me/260979333072?text=Hello%20Raising%20Ventures%21%20I%20need%20Business%20Name%20Registration%20%28K1%2C700%29.%20Please%20send%20requirements%20and%20timeline.%20Ready%20to%20proceed%20immediately.">
                         Get Started
                         <ArrowRight className="ml-2" size={18} />
                       </a>
@@ -218,7 +218,7 @@ export default function Services() {
                       className="w-full bg-primary hover:bg-primary/90 text-sm"
                       asChild
                     >
-                      <a href="https://wa.me/260979333072?text=Hi%20Raising%20Ventures%20I%20want%20to%20register%20my%20company">
+                      <a href="https://wa.me/260979333072?text=Hello%20Raising%20Ventures%21%20I%20need%20New%20Zambian%20Company%20Registration%20%28%24800%20USD%29%20as%20a%20foreign%20national.%20Please%20provide%20requirements%20and%20next%20steps.%20Ready%20to%20proceed.">
                         Get Started
                         <ArrowRight className="ml-2" size={16} />
                       </a>
@@ -274,7 +274,7 @@ export default function Services() {
                       className="w-full bg-accent hover:bg-accent/90 text-sm"
                       asChild
                     >
-                      <a href="https://wa.me/260979333072?text=Hi%20Raising%20Ventures%20I%20want%20to%20register%20my%20company">
+                      <a href="https://wa.me/260979333072?text=Hello%20Raising%20Ventures%21%20I%20need%20Branch%20Registration%20%28%242%2C000%20USD%29%20for%20my%20foreign%20company.%20I%20have%20parent%20company%20documents%20ready.%20Please%20advise%20next%20steps.">
                         Get Started
                         <ArrowRight className="ml-2" size={16} />
                       </a>
@@ -305,7 +305,7 @@ export default function Services() {
                         className="w-full bg-primary hover:bg-primary/90 text-sm"
                         asChild
                       >
-                        <a href="https://wa.me/260979333072?text=Hi%20Raising%20Ventures%20I%20want%20to%20register%20my%20company">
+                        <a href="https://wa.me/260979333072?text=Hello%20Raising%20Ventures%21%20I%20need%20Bank%20Account%20Assistance%20%28%24150%20USD%29%20after%20company%20registration.%20Please%20explain%20the%20process%20and%20bank%20requirements.">
                           Learn More
                         </a>
                       </Button>
@@ -336,7 +336,7 @@ export default function Services() {
                         className="w-full bg-accent hover:bg-accent/90 text-sm"
                         asChild
                       >
-                        <a href="https://wa.me/260979333072?text=Hi%20Raising%20Ventures%20I%20want%20to%20register%20my%20company">
+                        <a href="https://wa.me/260979333072?text=Hello%20Raising%20Ventures%21%20I%20would%20like%20to%20book%20a%20consultation%20%28%2450%20USD%29.%20Please%20confirm%20availability%20and%20schedule%20a%20call%20at%20your%20earliest%20convenience.">
                           Book Now
                         </a>
                       </Button>

@@ -178,7 +178,7 @@ export default function Home() {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
-              href="https://wa.me/260979333072?text=Hi%20Raising%20Ventures%2C%20I%20want%20to%20register%20my%20company"
+              href="https://wa.me/260979333072?text=Hello%20Raising%20Ventures%21%20I%20want%20to%20register%20my%20company%20in%20Zambia.%20Please%20send%20pricing%20options%20and%20requirements%20based%20on%20my%20needs.%20Ready%20to%20start%20immediately."
               target="_blank"
               rel="noopener noreferrer"
             >
